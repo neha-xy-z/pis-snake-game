@@ -1,4 +1,4 @@
-Autor: Neha Kandhari
+Autorin: Neha Kandhari
 
 ##### Inhaltsverzeichnis
 
@@ -80,7 +80,7 @@ SUM:                            16            178            153           1002
 ## Quellen
 
 - Apple Image, <https://www.clipartmax.com/max/m2i8i8d3Z5K9m2A0/> (Abruf, 12.05.2021)
-- Stone <https://clipground.com/pics/get> (Abruf, 12.05.2021)
+- Stone Image <https://clipground.com/pics/get> (Abruf, 12.05.2021)
 - Green Background Image, <http://bilder.4ever.eu/zeichentrick/gras-200990> (Abruf, 12.05.2021) 
 - Green Mushroom Image, <https://pixabay.com/vectors/mushroom-cartoon-green-plant-576060/> (Abruf, 12.05.2021) 
 - Red Mushroom Image, <https://pixabay.com/de/vectors/pilz-rot-karikaturen-pilze-giftig-23893/> (Abruf, 02.07.2021)
