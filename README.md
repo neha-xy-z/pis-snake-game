@@ -1,4 +1,4 @@
-Autorin: Neha Kandhari
+Autorin: Neha K.
 
 ##### Inhaltsverzeichnis
 
